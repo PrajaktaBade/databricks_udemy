@@ -1,0 +1,1 @@
+select * from databricks_prajakta.bronze.lookup_table
